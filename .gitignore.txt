@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset files
+data/*.csv
+
+# Plots and outputs
+plots/*.png
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
