@@ -1,0 +1,10 @@
+Model: Naive Bayes
+Accuracy: 0.8809
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93      1862
+           1       0.94      0.41      0.57       447
+
+    accuracy                           0.88      2309
+   macro avg       0.91      0.70      0.75      2309
+weighted avg       0.89      0.88      0.86      2309
