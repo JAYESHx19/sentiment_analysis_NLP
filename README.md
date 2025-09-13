@@ -35,6 +35,6 @@ This project implements sentiment analysis using the **Twitter US Airline Sentim
 ##  Installation
 
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-twitter.git
+git clone https://github.com/JAYESHx19/sentiment-analysis-twitter.git
 cd sentiment-analysis-twitter
 pip install -r requirements.txt
